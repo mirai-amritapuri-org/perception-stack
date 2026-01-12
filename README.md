@@ -1,7 +1,8 @@
-# Perception Stack
+# Perception Stack (GANDIVA)
 
-This repository hosts perception pipelines for robotic systems,
-including sensing, visual processing, and environment understanding.
+This repository hosts perception pipelines for robotics,
+including computer vision, machine learning, and sensor fusion.
 
-The goal is to enable robust perception for autonomy and
-intelligent decision-making in real-world conditions.
+Work here focuses on enabling robots to perceive, detect,
+track, and understand their environment, providing inputs
+for autonomy and intelligent decision-making.
